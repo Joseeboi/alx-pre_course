@@ -1,0 +1,8 @@
+git add .
+git commit -m "comment"
+git push
+git log --all --graph
+git pull
+git status
+git branch
+git checkout branch_name
